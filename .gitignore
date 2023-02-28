@@ -1,0 +1,81 @@
+# Compiled object files
+*.suo
+*.obj
+*.o
+*.pch
+*.pdb
+
+# Compiled dynamic libraries and executables
+*.dll
+*.exe
+
+# Compiled static libraries
+*.lib
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.vcxitems
+*.vcxitems.filters
+*.vspscc
+*.vssscc
+*.psess
+*.vshost.exe
+*.vs
+*.nupkg
+*.resharper
+_ReSharper*/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Output folder and files
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.ilk
+*.meta
+*.obj
+*.pdb
+*.exe
+*.dll
+*.aps
+*.lib
+*.ncb
+*.aps
+*.aps
+*.aps
+*.sdf
+*.sbr
+*.scc
+*.suo
+*.sln
+*.ilk
+*.idb
+*.db
+*.lastbuildstate
+*.log
+*.tlog
+*.ipdb
+*.iobj
+*.pdb
+*.pch
+*.res
+*.rc
+*.idlk
+*.manifest
+*.ipch
+*.manifest.res
+*.obj.unsuccessfulbuild
+*.obj.failedbuild
+*.vspscc
+*.vssscc
+
+# OS generated files
+[Tt]humbs.db
+*.DS_Store
